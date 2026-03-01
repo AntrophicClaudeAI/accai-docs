@@ -80,7 +80,7 @@ Solana provides the performance and cost structure necessary for high-frequency 
 | Allocation | Tokens | Percentage | Notes |
 |---|---|---|---|
 | **Founder** | 100,000,000 | 10% | Locked for 3 months post-launch |
-| **Presale** | 200,000,000 | 20% | $0.0005 per token |
+| **Presale** | 200,000,000 | 20% | $0.001-$0.003 per token (3 phases) |
 | **Liquidity Pool** | 300,000,000 | 30% | LP tokens burned permanently |
 | **Community & Airdrops** | 250,000,000 | 25% | Distributed via campaigns, rewards, and partnerships |
 | **Marketing & KOLs** | 100,000,000 | 10% | Influencer partnerships, content, and awareness |
@@ -95,7 +95,7 @@ Solana provides the performance and cost structure necessary for high-frequency 
 
 ### Presale Details
 
-- **Price:** $0.0005 per $ACCAI
+- **Price:** $0.001 (Phase 1), $0.002 (Phase 2), $0.003 (Phase 3)
 - **Allocation:** 200,000,000 tokens (20% of supply)
 - **Hard Cap:** $100,000
 - **Distribution:** Tokens distributed immediately upon presale conclusion
